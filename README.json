@@ -1,0 +1,229 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Codelabs",
+          "description": "Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-07-18T17:35:26Z",
+            "owner": "googlecodelabs",
+            "repo": "tools",
+            "stars": 4860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/jpetazzo/container.training",
+          "description": "This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-05T17:22:39Z",
+            "owner": "jpetazzo",
+            "repo": "container.training",
+            "stars": 3936
+          }
+        }
+      ],
+      "title": "Workshop training"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gitbook.com",
+          "description": "Modern documentation format and toolchain using Git and Markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:51:38Z",
+            "owner": "GitbookIO",
+            "repo": "gitbook",
+            "stars": 28994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "widdershins",
+          "description": "OpenApi / Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-04T23:50:09Z",
+            "owner": "Mermade",
+            "repo": "widdershins",
+            "stars": 1581
+          }
+        }
+      ],
+      "title": "Developer portals and documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terminalizer",
+          "description": "Record terminal sessions and save to GIF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-29T00:40:13Z",
+            "owner": "faressoft",
+            "repo": "terminalizer",
+            "stars": 16145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peek",
+          "description": "(for Linux): Capture screen area and save as GIF or video formats.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-09-24T14:09:08Z",
+            "owner": "phw",
+            "repo": "peek",
+            "stars": 10559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gifsicle",
+          "description": "Optimize and edit GIFs for sharing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-31T00:02:42Z",
+            "owner": "kohler",
+            "repo": "gifsicle",
+            "stars": 4300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gifcurry",
+          "description": "(for Linux/Mac): Gif editor to add text, trim, and add other effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2021-08-13T16:19:41Z",
+            "owner": "lettier",
+            "repo": "gifcurry",
+            "stars": 1441
+          }
+        }
+      ],
+      "title": "GIF creation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Developers Conferences Agenda/list",
+          "description": "A list of worldwide conferences since 2017 with date and location",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T06:14:05Z",
+            "owner": "scraly",
+            "repo": "developers-conferences-agenda",
+            "stars": 1995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Confs.tech",
+          "description": "Open source, shows both conferences coming soon as well as CFPs. They also have an email newsletter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T20:15:01Z",
+            "owner": "tech-conferences",
+            "repo": "confs.tech",
+            "stars": 1759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vmbrasseur/Public_Speaking",
+          "description": "A big open source list of conference speaking tips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-11T21:06:01Z",
+            "owner": "vmbrasseur",
+            "repo": "Public_Speaking",
+            "stars": 1448
+          }
+        }
+      ],
+      "title": "CFPs and Speaking Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tips & Tricks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crowd.dev",
+          "description": "Find high-intent accounts in your developer data (GitHub repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:51:35Z",
+            "owner": "linuxfoundation",
+            "repo": "crowd.dev",
+            "stars": 3367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A corporate DevRel program for honoring open source contributions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-28T06:24:39Z",
+            "owner": "jansche",
+            "repo": "oss-advisors",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Community Building"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:09:51.986Z",
+    "original_repository": "devrelcollective/awesome-devrel",
+    "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
+    "enhanced_repository": "enhansome/enhansome-devrel",
+    "enhanced_repository_description": null,
+    "title": "Awesome DevRel with stars"
+  }
+}
