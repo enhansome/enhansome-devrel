@@ -78,7 +78,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Workshop training
 
 * [Google Codelabs](https://github.com/googlecodelabs/tools) ⚠️ Archived: Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.
-* [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training) ⭐ 3,936 | 🐛 24 | 🌐 Shell | 📅 2026-08-05: This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
+* [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training) ⭐ 3,937 | 🐛 24 | 🌐 Shell | 📅 2026-08-05: This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
 * [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free.
 * [CodePen](https://codepen.io/trending): CodePen.io is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 * [CodeSandbox](https://codesandbox.io/): Create, share, and get feedback with collaborative sandboxes for rapid web development.
@@ -113,7 +113,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Developer portals and documentation
 
-* [gitbook.com](https://github.com/GitbookIO/gitbook) ⭐ 28,994 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-13: Modern documentation format and toolchain using Git and Markdown
+* [gitbook.com](https://github.com/GitbookIO/gitbook) ⭐ 28,997 | 🐛 120 | 🌐 TypeScript | 📅 2026-08-14: Modern documentation format and toolchain using Git and Markdown
 * [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,581 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04: OpenApi / Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown
 * [developerhub.io](http://developerhub.io/): Documentation tool to write, publish, review, analyse and collect feedback on personalised customer-facing API docs.
 * [readme.io](http://readme.io/): Create beautiful product and API documentation with our developer friendly platform.
@@ -142,10 +142,10 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## GIF creation
 
-* [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,145 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29: Record terminal sessions and save to GIF.
+* [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,150 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29: Record terminal sessions and save to GIF.
 * [Peek](https://github.com/phw/peek) ⚠️ Archived (for Linux): Capture screen area and save as GIF or video formats.
-* [gifsicle](https://github.com/kohler/gifsicle) ⭐ 4,300 | 🐛 27 | 🌐 C | 📅 2026-01-31: Optimize and edit GIFs for sharing.
-* [gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,441 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 (for Linux/Mac): Gif editor to add text, trim, and add other effects.
+* [gifsicle](https://github.com/kohler/gifsicle) ⭐ 4,301 | 🐛 28 | 🌐 C | 📅 2026-01-31: Optimize and edit GIFs for sharing.
+* [gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,442 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 (for Linux/Mac): Gif editor to add text, trim, and add other effects.
 * [Cleanshot X](https://cleanshot.com/) (for Mac): Easily capture your screen in images, GIFs and videos. Powerful tooling for making good-looking screenshots.
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
 * [EZGif](https://ezgif.com/): Online Gif editor - crop, add text, trim, add effects, censor - all online.
@@ -186,7 +186,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## CFPs and Speaking Resources
 
-* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 1,995 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-13 - A list of worldwide conferences since 2017 with date and location
+* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 1,995 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-14 - A list of worldwide conferences since 2017 with date and location
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech) ⭐ 1,759 | 🐛 13 | 🌐 TypeScript | 📅 2026-03-30, shows both conferences coming soon as well as CFPs. They also have an email newsletter.
 * [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,448 | 🐛 25 | 📅 2024-08-11: A big open source list of conference speaking tips.
 * [Ben's CFP Tracker](https://cfp.bendechr.ai/): Track and manage your conference speaking opportunities. Filter by location, manage submission status, and (hopefully) never miss a CFP deadline.
@@ -266,7 +266,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Community Building
 
-* [crowd.dev](https://crowd.dev): Find high-intent accounts in your developer data ([GitHub repo](https://github.com/CrowdDotDev/crowd.dev) ⭐ 3,367 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-13)
+* [crowd.dev](https://crowd.dev): Find high-intent accounts in your developer data ([GitHub repo](https://github.com/CrowdDotDev/crowd.dev) ⭐ 3,367 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-14)
 * [A corporate DevRel program for honoring open source contributions](https://github.com/jansche/oss-advisors) ⭐ 15 | 🐛 0 | 📅 2021-07-28
 * [GitHub Open Source Guides](https://opensource.guide/): Open Source Guides is a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 * [Contributor Covenant](https://www.contributor-covenant.org/): A Code of Conduct for Open Source Communities
@@ -310,4 +310,4 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
