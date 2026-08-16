@@ -14,7 +14,7 @@
             "last_commit": "2025-07-18T17:35:26Z",
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4862
+            "stars": 4864
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T14:12:52Z",
+            "last_commit": "2026-08-15T19:06:16Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 28996
+            "stars": 28997
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16152
+            "stars": 16153
           }
         },
         {
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T10:05:48Z",
+            "last_commit": "2026-08-16T05:24:47Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 1995
@@ -172,7 +172,7 @@
             "last_commit": "2024-08-11T21:06:01Z",
             "owner": "vmbrasseur",
             "repo": "Public_Speaking",
-            "stars": 1448
+            "stars": 1450
           }
         }
       ],
@@ -219,7 +219,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:38:54.047Z",
+    "last_updated": "2026-08-16T17:37:19.338Z",
     "original_repository": "devrelcollective/awesome-devrel",
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
     "enhanced_repository": "enhansome/enhansome-devrel",
