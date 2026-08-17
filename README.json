@@ -14,7 +14,7 @@
             "last_commit": "2025-07-18T17:35:26Z",
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4864
+            "stars": 4866
           }
         },
         {
@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T19:06:16Z",
+            "last_commit": "2026-08-17T15:27:31Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
             "stars": 28997
@@ -110,7 +110,7 @@
             "last_commit": "2026-01-31T00:02:42Z",
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4301
+            "stars": 4302
           }
         },
         {
@@ -141,10 +141,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T05:24:47Z",
+            "last_commit": "2026-08-17T05:32:32Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 1995
+            "stars": 1997
           }
         },
         {
@@ -194,10 +194,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T03:14:50Z",
+            "last_commit": "2026-08-17T14:38:43Z",
             "owner": "linuxfoundation",
             "repo": "crowd.dev",
-            "stars": 3367
+            "stars": 3366
           }
         },
         {
@@ -219,7 +219,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:37:19.338Z",
+    "last_updated": "2026-08-17T17:46:51.770Z",
     "original_repository": "devrelcollective/awesome-devrel",
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
     "enhanced_repository": "enhansome/enhansome-devrel",
