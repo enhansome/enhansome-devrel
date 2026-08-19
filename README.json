@@ -48,10 +48,10 @@
             "archived": false,
             "id": 18280236,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:56:00Z",
+            "last_commit": "2026-08-19T17:31:00Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29002
+            "stars": 29001
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-01-31T00:02:42Z",
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4303
+            "stars": 4304
           }
         },
         {
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 91165678,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T04:31:13Z",
+            "last_commit": "2026-08-19T15:52:45Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 1997
@@ -203,7 +203,7 @@
                 "archived": false,
                 "id": 508240664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T11:17:34Z",
+                "last_commit": "2026-08-19T15:45:53Z",
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3366
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:20.599Z",
+    "last_updated": "2026-08-19T17:43:48.675Z",
     "original_repository": "devrelcollective/awesome-devrel",
     "original_repository_id": 114687480,
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
