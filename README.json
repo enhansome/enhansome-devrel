@@ -15,7 +15,7 @@
             "last_commit": "2025-07-18T17:35:26Z",
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4868
+            "stars": 4870
           }
         },
         {
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 18280236,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T17:11:58Z",
+            "last_commit": "2026-08-21T16:42:14Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
             "stars": 29004
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-04T23:50:09Z",
             "owner": "Mermade",
             "repo": "widdershins",
-            "stars": 1581
+            "stars": 1580
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16153
+            "stars": 16154
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
             "repo": "peek",
-            "stars": 10558
+            "stars": 10557
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-01-31T00:02:42Z",
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4305
+            "stars": 4306
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2021-08-13T16:19:41Z",
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1443
+            "stars": 1444
           }
         }
       ],
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 91165678,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T16:29:51Z",
+            "last_commit": "2026-08-21T16:27:37Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 1997
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 508240664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:43:56Z",
+                "last_commit": "2026-08-21T12:29:01Z",
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3366
+                "stars": 3365
               }
             },
             {
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:48:23.084Z",
+    "last_updated": "2026-08-21T17:48:35.431Z",
     "original_repository": "devrelcollective/awesome-devrel",
     "original_repository_id": 114687480,
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
