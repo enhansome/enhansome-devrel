@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T17:22:39Z",
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3938
+            "stars": 3939
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T18:30:34Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29005
+            "stars": 29004
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16154
+            "stars": 16153
           }
         },
         {
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 91165678,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T05:23:46Z",
+            "last_commit": "2026-08-23T04:34:41Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 1997
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:39:42.624Z",
+    "last_updated": "2026-08-23T17:38:02.476Z",
     "original_repository": "devrelcollective/awesome-devrel",
     "original_repository_id": 114687480,
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
