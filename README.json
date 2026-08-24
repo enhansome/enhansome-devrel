@@ -15,7 +15,7 @@
             "last_commit": "2025-07-18T17:35:26Z",
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4871
+            "stars": 4872
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 18280236,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:30:34Z",
+            "last_commit": "2026-08-24T12:17:30Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29004
+            "stars": 29005
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16153
+            "stars": 16152
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
             "repo": "peek",
-            "stars": 10556
+            "stars": 10555
           }
         },
         {
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 91165678,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T04:34:41Z",
+            "last_commit": "2026-08-24T04:38:48Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 1997
@@ -203,7 +203,7 @@
                 "archived": false,
                 "id": 508240664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T19:27:16Z",
+                "last_commit": "2026-08-24T14:08:59Z",
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3364
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:38:02.476Z",
+    "last_updated": "2026-08-24T14:19:08.739Z",
     "original_repository": "devrelcollective/awesome-devrel",
     "original_repository_id": 114687480,
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
