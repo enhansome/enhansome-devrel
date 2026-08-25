@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "github.com/jpetazzo/container.training",
+          "title": "jpetazzo/container.training",
           "description": "This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.",
           "children": [],
           "repo_info": {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T17:22:39Z",
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3939
+            "stars": 3941
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T14:59:59Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29006
+            "stars": 29009
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16152
+            "stars": 16153
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-01-31T00:02:42Z",
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4306
+            "stars": 4307
           }
         },
         {
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 91165678,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T16:16:21Z",
+            "last_commit": "2026-08-25T05:28:50Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 1997
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:49:17.464Z",
+    "last_updated": "2026-08-25T06:13:34.036Z",
     "original_repository": "devrelcollective/awesome-devrel",
     "original_repository_id": 114687480,
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
