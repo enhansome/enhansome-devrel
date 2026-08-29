@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4874,
+            "stars": 4875,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -80,7 +80,7 @@
             "open_issues": 102,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29017,
+            "stars": 29018,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16158,
+            "stars": 16159,
             "topics": [
               "animated",
               "bash",
@@ -216,7 +216,7 @@
             "open_issues": 28,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4309,
+            "stars": 4310,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:00:38Z",
-            "open_issues": 11,
+            "last_commit": "2026-08-29T10:43:57Z",
+            "open_issues": 13,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2000,
@@ -352,7 +352,7 @@
             "open_issues": 25,
             "owner": "vmbrasseur",
             "repo": "Public_Speaking",
-            "stars": 1453,
+            "stars": 1454,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:09.067Z",
+    "last_updated": "2026-08-29T19:46:36.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
@@ -434,7 +434,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2025-05-09T15:41:36Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "devrelcollective",
       "repo": "awesome-devrel",
       "stars": 761,
