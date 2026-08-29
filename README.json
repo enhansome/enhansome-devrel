@@ -15,8 +15,9 @@
             "last_commit": "2025-07-18T17:35:26Z",
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4873
-          }
+            "stars": 4874
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-05T17:22:39Z",
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3941
-          }
+            "stars": 3944
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         }
       ],
       "title": "Workshop training"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 18280236,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:42:48Z",
+            "last_commit": "2026-08-28T19:39:15Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29016
-          }
+            "stars": 29017
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "Mermade",
             "repo": "widdershins",
             "stars": 1580
-          }
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         }
       ],
       "title": "Developer portals and documentation"
@@ -87,8 +91,9 @@
             "last_commit": "2024-08-29T00:40:13Z",
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16156
-          }
+            "stars": 16158
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "phw",
             "repo": "peek",
             "stars": 10555
-          }
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         },
         {
           "node_type": "item",
@@ -117,8 +123,9 @@
             "last_commit": "2026-01-31T00:02:42Z",
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4308
-          }
+            "stars": 4309
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "lettier",
             "repo": "gifcurry",
             "stars": 1444
-          }
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         }
       ],
       "title": "GIF creation"
@@ -150,11 +158,12 @@
             "archived": false,
             "id": 91165678,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:05:19Z",
+            "last_commit": "2026-08-28T20:00:38Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2000
-          }
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "tech-conferences",
             "repo": "confs.tech",
             "stars": 1759
-          }
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         },
         {
           "node_type": "item",
@@ -183,8 +193,9 @@
             "last_commit": "2024-08-11T21:06:01Z",
             "owner": "vmbrasseur",
             "repo": "Public_Speaking",
-            "stars": 1451
-          }
+            "stars": 1453
+          },
+          "first_seen": "2026-08-29T00:58:59.971Z"
         }
       ],
       "title": "CFPs and Speaking Resources"
@@ -203,11 +214,12 @@
                 "archived": false,
                 "id": 508240664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:50:59Z",
+                "last_commit": "2026-08-28T17:45:30Z",
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3365
-              }
+              },
+              "first_seen": "2026-08-29T00:58:59.971Z"
             },
             {
               "node_type": "item",
@@ -222,7 +234,8 @@
                 "owner": "jansche",
                 "repo": "oss-advisors",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:58:59.971Z"
             }
           ],
           "description": null,
@@ -234,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:30:49.820Z",
+    "last_updated": "2026-08-29T00:58:59.971Z",
     "original_repository_info": {
       "archived": false,
       "id": 114687480,
