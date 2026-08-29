@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Codelabs management & hosting tools",
+            "homepage": null,
             "id": 50182994,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-18T17:35:26Z",
+            "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4874
+            "stars": 4874,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         },
@@ -26,12 +31,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.",
+            "homepage": "http://container.training/",
             "id": 37004081,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T17:22:39Z",
+            "open_issues": 24,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3944
+            "stars": 3944,
+            "topics": [
+              "compose",
+              "docker",
+              "dockerfiles",
+              "elk",
+              "helm",
+              "kubernetes",
+              "labs",
+              "slides",
+              "stern",
+              "swarm",
+              "training",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         }
@@ -48,12 +71,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source frontend for GitBook doc sites",
+            "homepage": "https://www.gitbook.com",
             "id": 18280236,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T19:39:15Z",
+            "open_issues": 102,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29017
+            "stars": 29017,
+            "topics": [
+              "documentation",
+              "git",
+              "gitbook",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         },
@@ -64,12 +97,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown",
+            "homepage": "https://mermade.github.io/reslate",
             "id": 70106620,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-04T23:50:09Z",
+            "open_issues": 89,
             "owner": "Mermade",
             "repo": "widdershins",
-            "stars": 1580
+            "stars": 1580,
+            "topics": [
+              "api",
+              "asyncapi",
+              "documentation",
+              "openapi",
+              "openapi3",
+              "semoasa",
+              "slate",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         }
@@ -86,12 +133,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦄 Record your terminal and generate animated gif images or share a web player",
+            "homepage": "https://terminalizer.com",
             "id": 141910081,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-29T00:40:13Z",
+            "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16158
+            "stars": 16158,
+            "topics": [
+              "animated",
+              "bash",
+              "bash-profile",
+              "capture",
+              "colors",
+              "command-line",
+              "font",
+              "generate",
+              "gif",
+              "powershell",
+              "pty",
+              "record",
+              "render",
+              "repeat",
+              "shell",
+              "shot",
+              "terminal",
+              "theme",
+              "tty",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         },
@@ -102,12 +175,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple animated GIF screen recorder with an easy to use interface",
+            "homepage": null,
             "id": 48430079,
             "language": "Vala",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-24T14:09:08Z",
+            "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10555
+            "stars": 10555,
+            "topics": [
+              "apng",
+              "gif",
+              "gif-recorder",
+              "gnome",
+              "gtk3",
+              "linux",
+              "screencast",
+              "vala",
+              "wayland",
+              "webm"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         },
@@ -118,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create, manipulate, and optimize GIF images and animations",
+            "homepage": "http://www.lcdf.org/gifsicle/",
             "id": 10127104,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-31T00:02:42Z",
+            "open_issues": 28,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4309
+            "stars": 4309,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         },
@@ -134,12 +228,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 The open-source, Haskell-built video editor for GIF makers.",
+            "homepage": "https://lettier.github.io/gifcurry",
             "id": 49551977,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-08-13T16:19:41Z",
+            "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1444
+            "stars": 1444,
+            "topics": [
+              "animated-gifs",
+              "appimage",
+              "arch-linux",
+              "fedora",
+              "functional-programming",
+              "gif",
+              "gif-library",
+              "gif-maker",
+              "gifmaker",
+              "gifs",
+              "gstreamer",
+              "gtk",
+              "gui",
+              "haskell",
+              "imagemagick",
+              "linux",
+              "ubuntu",
+              "video",
+              "video-editing"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         }
@@ -156,12 +275,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors & attendees.",
+            "homepage": "https://developers.events/",
             "id": 91165678,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:00:38Z",
+            "open_issues": 11,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 2000
+            "stars": 2000,
+            "topics": [
+              "call-for-papers",
+              "cfp",
+              "conference-hall",
+              "conferences",
+              "conferences-talk",
+              "hacktoberfest",
+              "papercall",
+              "sessionize",
+              "talk",
+              "talks"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         },
@@ -172,12 +307,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend for https://confs.tech",
+            "homepage": "https://confs.tech",
             "id": 99970981,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-30T20:15:01Z",
+            "open_issues": 13,
             "owner": "tech-conferences",
             "repo": "confs.tech",
-            "stars": 1759
+            "stars": 1759,
+            "topics": [
+              "android-conferences",
+              "conference",
+              "content-strategy-conferences",
+              "css-conferences",
+              "data-conferences",
+              "dev-ops-conferences",
+              "hacktoberfest",
+              "ios-conferences",
+              "javascript-conferences",
+              "php-conferences",
+              "python-conferences",
+              "ruby-conferences",
+              "tech-conferences",
+              "ux-conferences"
+            ]
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         },
@@ -188,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of resources about public speaking, specifically in the context of software development and IT conferences.",
+            "homepage": null,
             "id": 92865843,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-08-11T21:06:01Z",
+            "open_issues": 25,
             "owner": "vmbrasseur",
             "repo": "Public_Speaking",
-            "stars": 1453
+            "stars": 1453,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
         }
@@ -212,12 +372,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LFX Community Data Platform (CDP)",
+                "homepage": "https://lfx.linuxfoundation.org",
                 "id": 508240664,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:45:30Z",
+                "open_issues": 31,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3365
+                "stars": 3365,
+                "topics": [
+                  "cdp",
+                  "community",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-29T00:58:59.971Z"
             },
@@ -228,12 +397,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A corporate DevRel program for honoring open source contributions",
+                "homepage": null,
                 "id": 368112125,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-07-28T06:24:39Z",
+                "open_issues": 0,
                 "owner": "jansche",
                 "repo": "oss-advisors",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "contributions",
+                  "devrel",
+                  "oss"
+                ]
               },
               "first_seen": "2026-08-29T00:58:59.971Z"
             }
@@ -247,15 +425,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:59.971Z",
+    "last_updated": "2026-08-29T04:37:09.067Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Developer Relations resources curated by the DevRel Collective",
+      "homepage": "https://devrelcollective.fun",
       "id": 114687480,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2025-05-09T15:41:36Z",
+      "open_issues": 5,
       "owner": "devrelcollective",
       "repo": "awesome-devrel",
-      "stars": 761
+      "stars": 761,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "cfps",
+        "devrel",
+        "speaking-resources"
+      ]
     },
     "original_repository_sha": "20fb555645d81c6edd6bb0b3f1c4d02870e2d5b3",
     "enhanced_repository": "enhansome/enhansome-devrel",
