@@ -113,7 +113,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Developer portals and documentation
 
-* [gitbook.com](https://github.com/GitbookIO/gitbook) ⭐ 29,018 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-28: Modern documentation format and toolchain using Git and Markdown
+* [gitbook.com](https://github.com/GitbookIO/gitbook) ⭐ 29,018 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-29: Modern documentation format and toolchain using Git and Markdown
 * [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,580 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04: OpenApi / Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown
 * [developerhub.io](http://developerhub.io/): Documentation tool to write, publish, review, analyse and collect feedback on personalised customer-facing API docs.
 * [readme.io](http://readme.io/): Create beautiful product and API documentation with our developer friendly platform.
@@ -186,7 +186,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## CFPs and Speaking Resources
 
-* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 2,000 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-29 - A list of worldwide conferences since 2017 with date and location
+* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 2,000 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-30 - A list of worldwide conferences since 2017 with date and location
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech) ⭐ 1,759 | 🐛 13 | 🌐 TypeScript | 📅 2026-03-30, shows both conferences coming soon as well as CFPs. They also have an email newsletter.
 * [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,454 | 🐛 25 | 📅 2024-08-11: A big open source list of conference speaking tips.
 * [Ben's CFP Tracker](https://cfp.bendechr.ai/): Track and manage your conference speaking opportunities. Filter by location, manage submission status, and (hopefully) never miss a CFP deadline.
@@ -310,4 +310,4 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
