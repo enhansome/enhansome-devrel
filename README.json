@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T21:47:07Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-01T15:06:02Z",
+            "open_issues": 98,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29019,
+            "stars": 29015,
             "topics": [
               "documentation",
               "git",
@@ -106,7 +106,7 @@
             "open_issues": 89,
             "owner": "Mermade",
             "repo": "widdershins",
-            "stars": 1580,
+            "stars": 1581,
             "topics": [
               "api",
               "asyncapi",
@@ -216,7 +216,7 @@
             "open_issues": 28,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4310,
+            "stars": 4311,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T20:32:37Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-01T19:55:12Z",
+            "open_issues": 12,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2000,
@@ -312,7 +312,7 @@
             "id": 99970981,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-03-30T20:15:01Z",
+            "last_commit": "2026-09-01T09:17:43Z",
             "open_issues": 13,
             "owner": "tech-conferences",
             "repo": "confs.tech",
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T21:25:22Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-01T18:15:42Z",
+                "open_issues": 33,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3365,
+                "stars": 3366,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:55:16.437Z",
+    "last_updated": "2026-09-01T19:57:06.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
