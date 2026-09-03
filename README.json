@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T19:17:15Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-03T14:09:56Z",
+            "open_issues": 98,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29017,
+            "stars": 29019,
             "topics": [
               "documentation",
               "git",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10553,
+            "stars": 10552,
             "topics": [
               "apng",
               "gif",
@@ -216,7 +216,7 @@
             "open_issues": 28,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4311,
+            "stars": 4310,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,7 +280,7 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T18:57:06Z",
+            "last_commit": "2026-09-03T19:51:54Z",
             "open_issues": 11,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T15:46:09Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-03T16:53:59Z",
+                "open_issues": 38,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3367,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:49:53.637Z",
+    "last_updated": "2026-09-03T19:53:58.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
@@ -437,7 +437,7 @@
       "open_issues": 4,
       "owner": "devrelcollective",
       "repo": "awesome-devrel",
-      "stars": 761,
+      "stars": 760,
       "topics": [
         "awesome-list",
         "awesome-lists",
