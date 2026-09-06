@@ -142,7 +142,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## GIF creation
 
-* [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,160 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29: Record terminal sessions and save to GIF.
+* [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,162 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29: Record terminal sessions and save to GIF.
 * [Peek](https://github.com/phw/peek) ⚠️ Archived (for Linux): Capture screen area and save as GIF or video formats.
 * [gifsicle](https://github.com/kohler/gifsicle) ⭐ 4,313 | 🐛 29 | 🌐 C | 📅 2026-01-31: Optimize and edit GIFs for sharing.
 * [gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,444 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 (for Linux/Mac): Gif editor to add text, trim, and add other effects.
@@ -186,9 +186,9 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## CFPs and Speaking Resources
 
-* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 2,000 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-05 - A list of worldwide conferences since 2017 with date and location
+* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 2,000 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-06 - A list of worldwide conferences since 2017 with date and location
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech) ⭐ 1,758 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-01, shows both conferences coming soon as well as CFPs. They also have an email newsletter.
-* [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,455 | 🐛 25 | 📅 2024-08-11: A big open source list of conference speaking tips.
+* [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,454 | 🐛 25 | 📅 2024-08-11: A big open source list of conference speaking tips.
 * [Ben's CFP Tracker](https://cfp.bendechr.ai/): Track and manage your conference speaking opportunities. Filter by location, manage submission status, and (hopefully) never miss a CFP deadline.
 * [CallingAllPapers](https://callingallpapers.com/): Open source aggregator that grabs conferences from several sources. They also have a free API.
 * [Speaking.io](https://speaking.io/): Zach Holman’s collected tips for public speakers in tech.
@@ -310,4 +310,4 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
