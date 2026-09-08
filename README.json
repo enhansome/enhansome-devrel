@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4880,
+            "stars": 4881,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T17:47:32Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-08T16:03:23Z",
+            "open_issues": 103,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29026,
+            "stars": 29024,
             "topics": [
               "documentation",
               "git",
@@ -106,7 +106,7 @@
             "open_issues": 89,
             "owner": "Mermade",
             "repo": "widdershins",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "api",
               "asyncapi",
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4315,
+            "stars": 4316,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,7 +280,7 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T19:13:43Z",
+            "last_commit": "2026-09-08T15:37:39Z",
             "open_issues": 12,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T19:01:32Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-08T19:33:54Z",
+                "open_issues": 40,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3368,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:37:02.431Z",
+    "last_updated": "2026-09-08T19:55:45.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
