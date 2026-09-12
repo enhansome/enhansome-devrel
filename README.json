@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T10:43:35Z",
+            "last_commit": "2026-09-11T19:54:16Z",
             "open_issues": 105,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29026,
+            "stars": 29027,
             "topics": [
               "documentation",
               "git",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:51:44Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-12T10:10:14Z",
+            "open_issues": 13,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2002,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:46:36.769Z",
+    "last_updated": "2026-09-12T19:25:15.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
