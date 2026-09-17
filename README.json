@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T19:36:30Z",
-            "open_issues": 105,
+            "last_commit": "2026-09-17T18:43:50Z",
+            "open_issues": 106,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29028,
+            "stars": 29030,
             "topics": [
               "documentation",
               "git",
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4317,
+            "stars": 4319,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:55:06Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-17T16:54:14Z",
+            "open_issues": 12,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2002,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T17:56:05Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-17T19:29:30Z",
+                "open_issues": 23,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3367,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:11:54.988Z",
+    "last_updated": "2026-09-17T20:22:09.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
