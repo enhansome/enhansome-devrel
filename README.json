@@ -142,7 +142,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16162,
+            "stars": 16160,
             "topics": [
               "animated",
               "bash",
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4318,
+            "stars": 4319,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T10:39:38Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-19T10:23:41Z",
+            "open_issues": 17,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2001,
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T18:05:27Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-19T01:52:07Z",
+                "open_issues": 23,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3368,
+                "stars": 3369,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:40:43.673Z",
+    "last_updated": "2026-09-19T19:20:58.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
