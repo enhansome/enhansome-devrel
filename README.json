@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4882,
+            "stars": 4883,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,8 +76,8 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T12:53:57Z",
-            "open_issues": 103,
+            "last_commit": "2026-09-22T19:00:53Z",
+            "open_issues": 102,
             "owner": "GitbookIO",
             "repo": "gitbook",
             "stars": 29033,
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4320,
+            "stars": 4321,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T20:28:21Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-22T11:01:34Z",
+            "open_issues": 15,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2002,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T20:15:05Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-22T18:19:21Z",
+                "open_issues": 15,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3369,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:07:08.844Z",
+    "last_updated": "2026-09-22T20:13:05.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
