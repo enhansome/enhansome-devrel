@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4882,
+            "stars": 4883,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -40,7 +40,7 @@
             "open_issues": 24,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3951,
+            "stars": 3953,
             "topics": [
               "compose",
               "docker",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T14:54:46Z",
+            "last_commit": "2026-09-25T11:05:42Z",
             "open_issues": 104,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29041,
+            "stars": 29045,
             "topics": [
               "documentation",
               "git",
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4321,
+            "stars": 4322,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T11:11:56Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-25T16:32:40Z",
+            "open_issues": 13,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2002,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T19:21:12Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-25T20:12:54Z",
+                "open_issues": 9,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3369,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:31:40.613Z",
+    "last_updated": "2026-09-25T20:31:37.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
