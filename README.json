@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4884,
+            "stars": 4882,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -40,7 +40,7 @@
             "open_issues": 24,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3954,
+            "stars": 3955,
             "topics": [
               "compose",
               "docker",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T16:43:56Z",
+            "last_commit": "2026-09-30T12:19:09Z",
             "open_issues": 106,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29049,
+            "stars": 29053,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16164,
+            "stars": 16166,
             "topics": [
               "animated",
               "bash",
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4322,
+            "stars": 4323,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T12:12:43Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-30T12:47:48Z",
+            "open_issues": 16,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2003,
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T17:48:21Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-30T18:18:28Z",
+                "open_issues": 11,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3367,
+                "stars": 3368,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:25:55.377Z",
+    "last_updated": "2026-09-30T21:26:26.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
