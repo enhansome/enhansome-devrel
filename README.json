@@ -36,7 +36,7 @@
             "id": 37004081,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T15:19:09Z",
+            "last_commit": "2026-10-01T13:32:47Z",
             "open_issues": 24,
             "owner": "jpetazzo",
             "repo": "container.training",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T12:19:09Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-01T15:47:37Z",
+            "open_issues": 107,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29053,
+            "stars": 29057,
             "topics": [
               "documentation",
               "git",
@@ -106,7 +106,7 @@
             "open_issues": 89,
             "owner": "Mermade",
             "repo": "widdershins",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "api",
               "asyncapi",
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4323,
+            "stars": 4325,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T12:47:48Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-01T16:15:15Z",
+            "open_issues": 18,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2003,
@@ -316,7 +316,7 @@
             "open_issues": 13,
             "owner": "tech-conferences",
             "repo": "confs.tech",
-            "stars": 1760,
+            "stars": 1762,
             "topics": [
               "android-conferences",
               "conference",
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T18:18:28Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-01T16:19:47Z",
+                "open_issues": 15,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3368,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:26:26.729Z",
+    "last_updated": "2026-10-01T21:50:56.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
