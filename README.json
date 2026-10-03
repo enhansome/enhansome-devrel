@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4883,
+            "stars": 4884,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -36,8 +36,8 @@
             "id": 37004081,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T13:32:47Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-03T00:03:40Z",
+            "open_issues": 25,
             "owner": "jpetazzo",
             "repo": "container.training",
             "stars": 3955,
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4326,
+            "stars": 4327,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -237,7 +237,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -393,7 +393,7 @@
             {
               "node_type": "item",
               "title": "A corporate DevRel program for honoring open source contributions",
-              "description": null,
+              "description": "jansche/oss-advisors",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:20:40.664Z",
+    "last_updated": "2026-10-03T04:42:49.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",

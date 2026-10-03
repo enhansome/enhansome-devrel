@@ -78,7 +78,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Workshop training
 
 * [Google Codelabs](https://github.com/googlecodelabs/tools) ⚠️ Archived: Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.
-* [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training) ⭐ 3,955 | 🐛 24 | 🌐 Shell | 📅 2026-10-01: This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
+* [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training) ⭐ 3,955 | 🐛 25 | 🌐 Shell | 📅 2026-10-03: This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
 * [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free.
 * [CodePen](https://codepen.io/trending): CodePen.io is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 * [CodeSandbox](https://codesandbox.io/): Create, share, and get feedback with collaborative sandboxes for rapid web development.
@@ -144,8 +144,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 * [terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,167 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29: Record terminal sessions and save to GIF.
 * [Peek](https://github.com/phw/peek) ⚠️ Archived (for Linux): Capture screen area and save as GIF or video formats.
-* [gifsicle](https://github.com/kohler/gifsicle) ⭐ 4,326 | 🐛 29 | 🌐 C | 📅 2026-01-31: Optimize and edit GIFs for sharing.
-* [gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,448 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 (for Linux/Mac): Gif editor to add text, trim, and add other effects.
+* [gifsicle](https://github.com/kohler/gifsicle) ⭐ 4,327 | 🐛 29 | 🌐 C | 📅 2026-01-31: Optimize and edit GIFs for sharing.
+* [gifcurry](https://github.com/lettier/gifcurry) ⭐ 1,449 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13 (for Linux/Mac): Gif editor to add text, trim, and add other effects.
 * [Cleanshot X](https://cleanshot.com/) (for Mac): Easily capture your screen in images, GIFs and videos. Powerful tooling for making good-looking screenshots.
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
 * [EZGif](https://ezgif.com/): Online Gif editor - crop, add text, trim, add effects, censor - all online.
@@ -310,4 +310,4 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
