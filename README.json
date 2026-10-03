@@ -80,7 +80,7 @@
             "open_issues": 104,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29058,
+            "stars": 29059,
             "topics": [
               "documentation",
               "git",
@@ -216,7 +216,7 @@
             "open_issues": 29,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4327,
+            "stars": 4328,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -237,7 +237,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1449,
+            "stars": 1448,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:57:27Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-03T11:12:16Z",
+            "open_issues": 32,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2004,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:49.686Z",
+    "last_updated": "2026-10-03T19:57:37.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
