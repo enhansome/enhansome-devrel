@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4884,
+            "stars": 4885,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -80,7 +80,7 @@
             "open_issues": 104,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29059,
+            "stars": 29062,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16167,
+            "stars": 16168,
             "topics": [
               "animated",
               "bash",
@@ -280,11 +280,11 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:12:16Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-04T11:52:52Z",
+            "open_issues": 39,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 2004,
+            "stars": 2005,
             "topics": [
               "call-for-papers",
               "cfp",
@@ -312,8 +312,8 @@
             "id": 99970981,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T09:17:43Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-04T13:49:07Z",
+            "open_issues": 12,
             "owner": "tech-conferences",
             "repo": "confs.tech",
             "stars": 1762,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:57:37.788Z",
+    "last_updated": "2026-10-04T20:12:52.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
