@@ -36,7 +36,7 @@
             "id": 37004081,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T06:44:47Z",
+            "last_commit": "2026-10-06T14:52:54Z",
             "open_issues": 25,
             "owner": "jpetazzo",
             "repo": "container.training",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T10:48:17Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-06T17:34:50Z",
+            "open_issues": 105,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29060,
+            "stars": 29061,
             "topics": [
               "documentation",
               "git",
@@ -237,7 +237,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T11:02:02Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-06T16:47:06Z",
+            "open_issues": 13,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2004,
@@ -381,7 +381,7 @@
                 "open_issues": 16,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3368,
+                "stars": 3367,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:10:38.686Z",
+    "last_updated": "2026-10-06T21:40:17.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
