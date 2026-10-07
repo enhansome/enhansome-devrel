@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4886,
+            "stars": 4887,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,8 +76,8 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T17:34:50Z",
-            "open_issues": 105,
+            "last_commit": "2026-10-07T16:09:45Z",
+            "open_issues": 101,
             "owner": "GitbookIO",
             "repo": "gitbook",
             "stars": 29061,
@@ -280,11 +280,11 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T16:47:06Z",
+            "last_commit": "2026-10-07T19:36:22Z",
             "open_issues": 13,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 2004,
+            "stars": 2005,
             "topics": [
               "call-for-papers",
               "cfp",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:40:17.657Z",
+    "last_updated": "2026-10-07T22:02:15.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
