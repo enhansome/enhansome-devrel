@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4889,
+            "stars": 4890,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -80,7 +80,7 @@
             "open_issues": 102,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29060,
+            "stars": 29061,
             "topics": [
               "documentation",
               "git",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10551,
+            "stars": 10550,
             "topics": [
               "apng",
               "gif",
@@ -216,7 +216,7 @@
             "open_issues": 28,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4327,
+            "stars": 4328,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T17:09:07Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-10T10:56:40Z",
+            "open_issues": 13,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2005,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:43:44.278Z",
+    "last_updated": "2026-10-10T20:34:50.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
