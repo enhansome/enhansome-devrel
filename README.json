@@ -19,7 +19,7 @@
             "open_issues": 255,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4891,
+            "stars": 4894,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T12:59:06Z",
+            "last_commit": "2026-10-14T10:50:49Z",
             "open_issues": 87,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29063,
+            "stars": 29064,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16170,
+            "stars": 16171,
             "topics": [
               "animated",
               "bash",
@@ -212,11 +212,11 @@
             "id": 10127104,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-13T20:04:52Z",
+            "last_commit": "2026-10-14T15:29:56Z",
             "open_issues": 23,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4327,
+            "stars": 4331,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T20:22:50Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-14T20:26:25Z",
+            "open_issues": 12,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2007,
@@ -316,7 +316,7 @@
             "open_issues": 15,
             "owner": "tech-conferences",
             "repo": "confs.tech",
-            "stars": 1762,
+            "stars": 1763,
             "topics": [
               "android-conferences",
               "conference",
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T19:51:27Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-14T17:14:19Z",
+                "open_issues": 16,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3369,
+                "stars": 3370,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:52:30.554Z",
+    "last_updated": "2026-10-14T20:44:03.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
