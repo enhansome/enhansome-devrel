@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4893,
+            "stars": 4894,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T15:00:05Z",
-            "open_issues": 87,
+            "last_commit": "2026-10-16T10:52:56Z",
+            "open_issues": 88,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29065,
+            "stars": 29066,
             "topics": [
               "documentation",
               "git",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10547,
+            "stars": 10544,
             "topics": [
               "apng",
               "gif",
@@ -216,7 +216,7 @@
             "open_issues": 23,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4331,
+            "stars": 4332,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T16:41:06Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-16T19:56:02Z",
+            "open_issues": 12,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2007,
@@ -377,7 +377,7 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T19:30:17Z",
+                "last_commit": "2026-10-16T17:10:12Z",
                 "open_issues": 12,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:22:06.386Z",
+    "last_updated": "2026-10-16T19:58:51.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
@@ -437,7 +437,7 @@
       "open_issues": 3,
       "owner": "devrelcollective",
       "repo": "awesome-devrel",
-      "stars": 761,
+      "stars": 762,
       "topics": [
         "awesome-list",
         "awesome-lists",
