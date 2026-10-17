@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4894,
+            "stars": 4895,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3958,
+            "stars": 3959,
             "topics": [
               "compose",
               "docker",
@@ -80,7 +80,7 @@
             "open_issues": 88,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29066,
+            "stars": 29068,
             "topics": [
               "documentation",
               "git",
@@ -213,10 +213,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-15T18:57:38Z",
-            "open_issues": 23,
+            "open_issues": 25,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4332,
+            "stars": 4333,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,11 +280,11 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T19:56:02Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-17T12:03:55Z",
+            "open_issues": 14,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 2007,
+            "stars": 2006,
             "topics": [
               "call-for-papers",
               "cfp",
@@ -381,7 +381,7 @@
                 "open_issues": 12,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3368,
+                "stars": 3369,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:58:51.165Z",
+    "last_updated": "2026-10-17T19:27:13.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
