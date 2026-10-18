@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3959,
+            "stars": 3960,
             "topics": [
               "compose",
               "docker",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16169,
+            "stars": 16170,
             "topics": [
               "animated",
               "bash",
@@ -216,7 +216,7 @@
             "open_issues": 25,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4333,
+            "stars": 4334,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -237,7 +237,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1450,
+            "stars": 1451,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T12:03:55Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-18T10:29:44Z",
+            "open_issues": 17,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2006,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T17:10:12Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-18T12:17:30Z",
+                "open_issues": 11,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3369,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:27:13.401Z",
+    "last_updated": "2026-10-18T19:27:20.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
