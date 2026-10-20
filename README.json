@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4895,
+            "stars": 4896,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T10:52:56Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-20T16:18:55Z",
+            "open_issues": 92,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29067,
+            "stars": 29068,
             "topics": [
               "documentation",
               "git",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10546,
+            "stars": 10547,
             "topics": [
               "apng",
               "gif",
@@ -280,11 +280,11 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T12:09:43Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-20T11:09:00Z",
+            "open_issues": 24,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 2006,
+            "stars": 2007,
             "topics": [
               "call-for-papers",
               "cfp",
@@ -377,7 +377,7 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T20:50:47Z",
+                "last_commit": "2026-10-20T19:22:45Z",
                 "open_issues": 11,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:34:11.438Z",
+    "last_updated": "2026-10-20T20:39:11.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",

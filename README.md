@@ -113,7 +113,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Developer portals and documentation
 
-* [gitbook.com](https://github.com/GitbookIO/gitbook) ⭐ 29,067 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-16: Modern documentation format and toolchain using Git and Markdown
+* [gitbook.com](https://github.com/GitbookIO/gitbook) ⭐ 29,068 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-20: Modern documentation format and toolchain using Git and Markdown
 * [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,582 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04: OpenApi / Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown
 * [developerhub.io](http://developerhub.io/): Documentation tool to write, publish, review, analyse and collect feedback on personalised customer-facing API docs.
 * [readme.io](http://readme.io/): Create beautiful product and API documentation with our developer friendly platform.
@@ -186,7 +186,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## CFPs and Speaking Resources
 
-* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 2,006 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-19 - A list of worldwide conferences since 2017 with date and location
+* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) ⭐ 2,007 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-20 - A list of worldwide conferences since 2017 with date and location
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech) ⭐ 1,763 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-05, shows both conferences coming soon as well as CFPs. They also have an email newsletter.
 * [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,455 | 🐛 27 | 📅 2024-08-11: A big open source list of conference speaking tips.
 * [Ben's CFP Tracker](https://cfp.bendechr.ai/): Track and manage your conference speaking opportunities. Filter by location, manage submission status, and (hopefully) never miss a CFP deadline.
@@ -266,7 +266,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Community Building
 
-* [crowd.dev](https://crowd.dev): Find high-intent accounts in your developer data ([GitHub repo](https://github.com/CrowdDotDev/crowd.dev) ⭐ 3,370 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-19)
+* [crowd.dev](https://crowd.dev): Find high-intent accounts in your developer data ([GitHub repo](https://github.com/CrowdDotDev/crowd.dev) ⭐ 3,370 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-20)
 * [A corporate DevRel program for honoring open source contributions](https://github.com/jansche/oss-advisors) ⭐ 15 | 🐛 0 | 📅 2021-07-28
 * [GitHub Open Source Guides](https://opensource.guide/): Open Source Guides is a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 * [Contributor Covenant](https://www.contributor-covenant.org/): A Code of Conduct for Open Source Communities
@@ -310,4 +310,4 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
