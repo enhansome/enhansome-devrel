@@ -77,10 +77,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-21T10:00:11Z",
-            "open_issues": 91,
+            "open_issues": 90,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29069,
+            "stars": 29070,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16169,
+            "stars": 16168,
             "topics": [
               "animated",
               "bash",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10546,
+            "stars": 10544,
             "topics": [
               "apng",
               "gif",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T19:05:48Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-23T11:08:33Z",
+            "open_issues": 28,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2007,
@@ -377,7 +377,7 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T20:18:35Z",
+                "last_commit": "2026-10-23T20:13:47Z",
                 "open_issues": 16,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:35:00.133Z",
+    "last_updated": "2026-10-23T20:29:39.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
