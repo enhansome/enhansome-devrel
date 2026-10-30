@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4902,
+            "stars": 4903,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -36,7 +36,7 @@
             "id": 37004081,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T17:00:27Z",
+            "last_commit": "2026-10-30T17:35:17Z",
             "open_issues": 41,
             "owner": "jpetazzo",
             "repo": "container.training",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T18:20:29Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-30T18:07:12Z",
+            "open_issues": 87,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29076,
+            "stars": 29081,
             "topics": [
               "documentation",
               "git",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10544,
+            "stars": 10543,
             "topics": [
               "apng",
               "gif",
@@ -216,7 +216,7 @@
             "open_issues": 25,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4336,
+            "stars": 4337,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T10:44:25Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-30T12:18:07Z",
+            "open_issues": 59,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2007,
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T21:45:28Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-30T19:19:35Z",
+                "open_issues": 13,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3373,
+                "stars": 3372,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:50:09.160Z",
+    "last_updated": "2026-10-30T21:33:10.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
