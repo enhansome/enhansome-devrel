@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4904,
+            "stars": 4905,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -40,7 +40,7 @@
             "open_issues": 41,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3963,
+            "stars": 3964,
             "topics": [
               "compose",
               "docker",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T10:23:46Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-05T17:49:30Z",
+            "open_issues": 93,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29089,
+            "stars": 29091,
             "topics": [
               "documentation",
               "git",
@@ -106,7 +106,7 @@
             "open_issues": 89,
             "owner": "Mermade",
             "repo": "widdershins",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "api",
               "asyncapi",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16170,
+            "stars": 16171,
             "topics": [
               "animated",
               "bash",
@@ -216,7 +216,7 @@
             "open_issues": 25,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4343,
+            "stars": 4346,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T14:10:54Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-05T17:01:59Z",
+            "open_issues": 14,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2008,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T21:54:55Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-05T21:34:56Z",
+                "open_issues": 19,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3372,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:39:25.406Z",
+    "last_updated": "2026-11-05T22:41:09.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
