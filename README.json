@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4905,
+            "stars": 4904,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -40,7 +40,7 @@
             "open_issues": 41,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3964,
+            "stars": 3965,
             "topics": [
               "compose",
               "docker",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T17:49:30Z",
+            "last_commit": "2026-11-06T17:06:56Z",
             "open_issues": 93,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29091,
+            "stars": 29093,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16171,
+            "stars": 16172,
             "topics": [
               "animated",
               "bash",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10543,
+            "stars": 10544,
             "topics": [
               "apng",
               "gif",
@@ -237,7 +237,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1454,
+            "stars": 1455,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -280,7 +280,7 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T17:01:59Z",
+            "last_commit": "2026-11-06T17:34:10Z",
             "open_issues": 14,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T21:34:56Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-06T21:08:13Z",
+                "open_issues": 18,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3372,
+                "stars": 3371,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:41:09.895Z",
+    "last_updated": "2026-11-06T22:09:07.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
@@ -434,7 +434,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2025-05-09T15:41:36Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "devrelcollective",
       "repo": "awesome-devrel",
       "stars": 762,
