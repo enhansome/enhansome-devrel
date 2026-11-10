@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4906,
+            "stars": 4907,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T12:47:40Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-10T17:25:31Z",
+            "open_issues": 91,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29093,
+            "stars": 29096,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16172,
+            "stars": 16174,
             "topics": [
               "animated",
               "bash",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10543,
+            "stars": 10544,
             "topics": [
               "apng",
               "gif",
@@ -216,7 +216,7 @@
             "open_issues": 25,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4350,
+            "stars": 4351,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -237,7 +237,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1455,
+            "stars": 1456,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T15:35:44Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-10T14:44:01Z",
+            "open_issues": 34,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2008,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T00:35:48Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-10T21:25:44Z",
+                "open_issues": 22,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3372,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:43:01.649Z",
+    "last_updated": "2026-11-10T22:24:16.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
