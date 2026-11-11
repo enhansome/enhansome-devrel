@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T17:25:31Z",
-            "open_issues": 91,
+            "last_commit": "2026-11-11T20:48:48Z",
+            "open_issues": 92,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29096,
+            "stars": 29095,
             "topics": [
               "documentation",
               "git",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T14:44:01Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-11T14:04:09Z",
+            "open_issues": 42,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2008,
@@ -352,7 +352,7 @@
             "open_issues": 27,
             "owner": "vmbrasseur",
             "repo": "Public_Speaking",
-            "stars": 1457,
+            "stars": 1458,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T21:25:44Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-11T18:07:32Z",
+                "open_issues": 25,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3372,
+                "stars": 3373,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:24:16.726Z",
+    "last_updated": "2026-11-11T23:29:16.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
