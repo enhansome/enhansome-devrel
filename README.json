@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "googlecodelabs",
             "repo": "tools",
-            "stars": 4908,
+            "stars": 4906,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T18:09:48Z",
+            "last_commit": "2026-11-13T16:03:37Z",
             "open_issues": 91,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29096,
+            "stars": 29099,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16173,
+            "stars": 16172,
             "topics": [
               "animated",
               "bash",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T15:02:49Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-13T12:56:16Z",
+            "open_issues": 59,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2008,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T19:05:12Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-13T21:57:58Z",
+                "open_issues": 24,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3374,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:44:58.800Z",
+    "last_updated": "2026-11-13T22:41:22.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
