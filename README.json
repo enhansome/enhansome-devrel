@@ -40,7 +40,7 @@
             "open_issues": 41,
             "owner": "jpetazzo",
             "repo": "container.training",
-            "stars": 3966,
+            "stars": 3967,
             "topics": [
               "compose",
               "docker",
@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T16:41:09Z",
+            "last_commit": "2026-11-16T19:13:21Z",
             "open_issues": 93,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29101,
+            "stars": 29100,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16171,
+            "stars": 16170,
             "topics": [
               "animated",
               "bash",
@@ -280,11 +280,11 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T16:42:51Z",
+            "last_commit": "2026-11-16T16:36:49Z",
             "open_issues": 13,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 2008,
+            "stars": 2007,
             "topics": [
               "call-for-papers",
               "cfp",
@@ -377,11 +377,11 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T18:45:40Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-16T17:10:44Z",
+                "open_issues": 17,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
-                "stars": 3375,
+                "stars": 3376,
                 "topics": [
                   "cdp",
                   "community",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:51:50.769Z",
+    "last_updated": "2026-11-17T00:50:11.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
