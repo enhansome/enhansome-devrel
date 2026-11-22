@@ -76,11 +76,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T09:24:28Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-22T18:03:16Z",
+            "open_issues": 26,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29103,
+            "stars": 29104,
             "topics": [
               "documentation",
               "git",
@@ -142,7 +142,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16171,
+            "stars": 16170,
             "topics": [
               "animated",
               "bash",
@@ -184,7 +184,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10543,
+            "stars": 10542,
             "topics": [
               "apng",
               "gif",
@@ -216,7 +216,7 @@
             "open_issues": 26,
             "owner": "kohler",
             "repo": "gifsicle",
-            "stars": 4357,
+            "stars": 4358,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:59.971Z"
@@ -237,7 +237,7 @@
             "open_issues": 41,
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1457,
+            "stars": 1458,
             "topics": [
               "animated-gifs",
               "appimage",
@@ -280,8 +280,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T15:02:17Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-22T17:35:32Z",
+            "open_issues": 16,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2007,
@@ -377,8 +377,8 @@
                 "id": 508240664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T21:06:14Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-22T19:15:01Z",
+                "open_issues": 15,
                 "owner": "linuxfoundation",
                 "repo": "crowd.dev",
                 "stars": 3377,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:12:23.430Z",
+    "last_updated": "2026-11-22T22:29:41.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Developer Relations resources curated by the DevRel Collective",
